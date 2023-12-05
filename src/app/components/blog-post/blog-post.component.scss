@@ -1,0 +1,28 @@
+::ng-deep {
+
+    main {
+
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            text-align: center;
+        }
+
+        img {
+            display: block;
+            margin: 1rem auto;
+            max-width: 100%;
+            /* Esto hace que la imagen no sea más ancha que su contenedor */
+            height: auto;
+            /* Esto mantiene la relación de aspecto de la imagen */
+        }
+    }
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}

@@ -1,27 +1,41 @@
-# TutorialBlog
+Blog Estático con Angular v17 - Código Fuente
+=============================================
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+Descripción
+-----------
 
-## Development server
+Este repositorio contiene el código fuente del proyecto tutorial "Construye tu Blog con Angular v17 y Static Site Generation (SSG) paso a paso". Aquí encontrarás un ejemplo práctico de cómo desarrollar un blog de archivos estáticos usando Angular v17.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Características del Proyecto
+----------------------------
 
-## Code scaffolding
+*   **Angular v17**: Desarrollo frontend con de Angular v17.
+*   **Static Site Generation (SSG)**: Carga de página mediante SSG.
+*   **MarkdownIt**: Renderización de contenido Markdown.
+*   **Header Dinámico**: Implementación de un servicio de header con signals.
+*   **Bootstrap**: Integración y personalización de una plantilla Bootstrap.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Cómo Usar el Repositorio
+------------------------
 
-## Build
+1.  **Clonar el Repositorio**:
+    
+2.  **Instalar Dependencias**:
+    
+    `npm install`
+    
+3.  **Ejecutar el Proyecto**:
+    
+    `ng serve`
+    
+    Navega a `http://localhost:4200/` para ver el proyecto en acción.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Tutorial Completo
+-----------------
 
-## Running unit tests
+Para un guía paso a paso de cómo se construyó este blog, visita el \[tutorial en YouTube\](https://youtu.be/TRDyETGgc3Q).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Contribuciones y Feedback
+-------------------------
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Tus contribuciones y comentarios son bienvenidos. Si encuentras algún problema o tienes sugerencias para mejorar el proyecto, no dudes en abrir un 'issue' o enviar un 'pull request'.
