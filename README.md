@@ -30,12 +30,16 @@ Cómo Usar el Repositorio
     
     Navega a `http://localhost:4200/` para ver el proyecto en acción.
 
+Puedes descargar la plantilla original de boostrap aquí: \[Plantilla\](https://startbootstrap.com/previews/clean-blog)
+
 Tutorial Completo
 -----------------
 
-Para un guía paso a paso de cómo se construyó este blog, visita el \[tutorial en YouTube\](https://youtu.be/TRDyETGgc3Q).
+Para un guía paso a paso de cómo se construyó este blog, visita el \[tutorial en YouTube\](https://youtu.be/VVUOkEr5oNw).
 
 Contribuciones y Feedback
 -------------------------
 
 Tus contribuciones y comentarios son bienvenidos. Si encuentras algún problema o tienes sugerencias para mejorar el proyecto, no dudes en abrir un 'issue' o enviar un 'pull request'.
+
+Muchas gracias a \[Markdown-it\](https://github.com/markdown-it/markdown-it) y a \[gray-matter-browser\](https://github.com/LittleSound/gray-matter-browser)  
